@@ -14,4 +14,4 @@
 ###### A combination of factors affect rent prices of HDB flats in Singapore but one thing is for sure: as long as the economy continues to grow, rent prices will continue to increase.
 
 
-######## _In this submission is a Jupyter Notebook file which will show the trend analyis that is mentioned above._
+###### _In this submission is a Jupyter Notebook file which will show the trend analyis that is mentioned above._
